@@ -1,0 +1,17 @@
+<!--pages/solarterm/solarterm.wxml-->
+<text>pages/solarterm/solarterm.wxml</text>
+<view>
+<text>今天是{{solar}}</text>
+</view>
+<view>
+<text>{{lunar}}</text>
+</view>
+<view>
+<text>距离</text>
+</view>
+<view>
+<text>{{closestSolarTerm}}</text>
+</view>
+<view>
+<text>还有{{daysLeft}}天</text>
+</view>
