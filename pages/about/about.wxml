@@ -1,2 +1,4 @@
 <!--pages/about/about.wxml-->
-<text>pages/about/about.wxml</text>
+<view>
+    <text>小程序-我的节气，可以查看距离最近的24节气还有多少天。</text>
+</view>

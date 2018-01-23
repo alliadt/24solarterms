@@ -25,7 +25,7 @@ Page({
    */
   onReady: function () {
     let dateObj = new Date();
-    dateObj.setFullYear(2019, 2, 20)
+    // dateObj.setFullYear(2019, 2, 20)
     this.setData({
       solar: util.solarTime(dateObj),
       lunar: util.lunarTime(dateObj),
